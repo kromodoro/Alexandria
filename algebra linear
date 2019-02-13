@@ -132,3 +132,30 @@ Informações
 		6x-15y=12
 
 		números imaginarios é raiz de -1.
+
+		==========================================
+		1) Identifique se os sistemas abaixo são  ou não lineares.
+
+		   -2x + 4y + z = 2
+		a) 3x - 2/y = 0 (Não é linear pois faz operação com o incógnita)
+
+			4x + 2y - z = -1
+		b)  -x +(ln2).y -3z = 0 (Não é linear pois faz operação com os incógnitas)
+		[Logaritmo natural]
+			5x - 7y + raiz(3)z = 5
+		c) 	2x = 3
+			5y + 7z = 0
+
+		2) Classifique os sistemas a seguir como Possíveis Determinados (SPD); Possíveis Indeterminados (SPI) ou Impossíveis (SI).
+
+			4y + 7x = 8
+		a)	2y - x = 3 (Sistema Possível Determinado)
+
+			4u¹ + 6u² = 8
+		b) 	6u1 + 9u² = 15 (Sistema Impossivel)
+
+			6a + 8b = 10
+		c)	1,5a + 2b = 2,5 (Sistema Possível Indeterminado) 
+
+		Algarismo NEPERIANO 
+		
