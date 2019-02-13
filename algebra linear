@@ -1,0 +1,134 @@
+Algebra Linear, estuda espaços N dimencionais.
+
+Nós vivemos em um mundo de 4 dimenções, com 4 cordenadas (X,Y,Z TEMPO)
+
+Informações
+	-	ESCALAR: R¹ (7,4,5,12) usa-se a simbologia de ALFA ou letra grega (normalmente pertencentes ao conjunto dos reais)
+		|R¹ E |R
+
+	- VETORES:  são cadeias de escalares.
+    _>
+	u é vetor se tiver uma setinha em cima ou em negrito.
+	->
+	u [ 7 4]
+
+	->
+	u [u¹ u²] //Represente o 7 e o 4.
+
+	u²
+	|
+	|
+	|--------
+	|       |
+	|       |
+	|_______|___u¹
+
+	->
+	V [7 4 5]	: |R3 (espaço r3)
+
+	u¹
+	|
+	|
+	|______u²
+	 \ 
+	  \
+	   \u³
+
+	Nosso mundo: |R4
+	->
+	w  = [x y z t]
+
+	A regra para soma de vetores se aplica a todos independete de seu tamanho.
+
+	Além disso não há significação concreta possível. Não pode chegar e falar isso está relacionado com o mundo concreto.
+
+	Se as retas forem paralelas chamamos de sistema impossível. Quando elas se cruzam há um solução para o problema.
+
+	Quando os vetores são os mesmo o sistema é chamado indeterminado, porque qualquer valor que você coloca gera o resultado.
+
+	2x + 4y = 6 POSSÍVEL
+
+	2x + 4y = 7 IMPOSSÍVEL
+
+	A álgebra linear trata sempre de equações de múltiplas variáveis porém todas as equações devem necessáriamente ser LINEARES.
+
+	definição de equação: existe uma diferença básica entre função e equação: equação é uma igualdade e função está em função de alguma coisa.
+
+	y=3x+7 (deixar uma variável em função da outra)
+
+	7x + 2y = 9 (a soma das duas icognitas é igual ao resultado ou seja EQUAÇÃO)
+
+	EXEMPLO DE LINEAR
+		 8 = 7x + 9y
+		 4 = raiz(2)x + 5y
+		 log(9) = x
+	A potencia do X e Y tem que ser necessáriamente 1.
+
+	NÃO LINEAR
+	8= 7x² + 9y (não é linear)
+	7=raiz(x) * 5 + 4y
+	9=8x + 7/y
+	5=7*log(x)+7y
+
+	Sistemas de Equações Lineares
+	Quando você tem por exemplo, no mesmo sistema mais de uma equação linear.
+	É UM SISTEMA DE EQUAÇÕES FORMADO APENAS POR EQUAÇÕES LINEARES, NENHUM OUTRO TIPO DE EQUAÇÃO.
+
+	3x+7y=6
+	9x-2y=8
+
+	https://www.mathway.com/graph
+	A reta vermelha são todas as soluções que resolvem 3x+7y=6 (qualquer ponto x e y, vai dar 6)
+
+	Para ser solução linear, tem que resolver tanto a reta vermelha, quanto a reta azul.
+
+	1) 3x+7y=6
+		7y=6-3x
+		y = 6-3x/7 (Resolver por substituição)
+
+	2) 9x-2(6-3x/7) = 8
+		9x-12-6x/7 = 8
+		63x-12-6x/7=8
+		57x-12=56
+		57x=56+12=68
+		x=68/57-1,2
+
+		3*1.2 + 7y=6
+		3.6+7y=6
+		7y=-3.6
+		y=2.4/7=0.34
+
+		SOMA DAS EQUAÇÕES
+		3x+7y=6(*2) multiplica toda equação
+		9x-2y=8(*7) multiplica toda equação
+
+		6x+14y=12
+		63x-14y=56
+		69x=68
+		x = 68/69 = 0,98
+
+		REGRA:
+		Quando o vetor tem 3 incognitas é encessário no mínimo 3 equações
+
+		ESCOLANADA
+		É deixar a sua matriz 
+
+		SISTEMA POSSÍVEL DA PARA RESOLVER (PORQUE AS RETAS SE CRUZAM), E SÃO DETERMINADOS (mostra que temos uma ÚNICA solução que satisfaz o sistema).
+
+		Sistemas Impossíveis
+		3x+7y=12
+		3x+7y=15(*-1)
+
+		3x+7y = 12
+			+
+		-3x-7y= -15
+		0 + 0 = -3
+		0 = -3
+
+		Sistema Possível Indeterminado
+		Qualquer valor resolve o problema.
+
+		2x-5y=4 (*-3) [para igualar com o valor 6]
+		6x-15y=12
+
+		números imaginarios é raiz de -1.
