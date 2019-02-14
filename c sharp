@@ -1,1 +1,61 @@
 https://stackoverflow.com/questions/18827081/c-sharp-base64-string-to-jpeg-image
+
+
+---> Programação Estruturada
+  > Programa principal: funções, rotinas, procedimentos
+  
+  |-------------------| |-------------------------|
+  |Funções de cadastro| |Funções de banco de dados|
+  |-------------------| |-------------------------|
+  
+---> Programação Orientada a Eventos
+---> Programação Orientada a Objetos
+
+1991 estavam em guerra MICROSOFT & IBM, estavam querendo criar um sistema operacional que usasse interface gráfica (GUI). A grande briga era o DOS que era propriedade da MICROSOFT. Edo outro lado o pessoal do UNIX (Sistema aberto).
+1991 - Itautec comprou uma biblioteca de classes em C++ (para fazer interface gráfica) biblioteca ZINC
+
+[MOTIF] para gerar gráfico no UNIX
+
+PROGRAMAÇÃO ORIENTADA A EVENTOS
+Possíveis eventos> 
+ - cliques
+ - arrastar e jogar (drag and drop)
+ - passar sobre um componente
+ - abrir janela
+ - fechar janela
+ 
+ Um programa em execução é um processo, nos dados do processo tme o contexto do programa. abrir 5x o WORD cada um tem um contexto diferente.
+ 
+ Suponha que trabalhos com o EXCEL e com 5 pastinhas rodando. Onde cada uma tem o funcionamento identico, mas com seus dados exclusivos.
+ 
+ Se tem 5 pastas, ele vai ter que ter área de dados, lista de funções.
+ 
+ Processo é um programa em execução, agora chamado de objeto que é uma cópia de um programa em execução, onde seu contexto é chamado classe.
+ 
+ A classe é uma fabrica de objetos identicos.
+ IDE, do inglês Integrated Development Environment ou Ambiente de Desenvolvimento Integrado,
+ é um programa de computador que reúne características e ferramentas de apoio ao desenvolvimento 
+ de software com o objetivo de agilizar este processo.
+ 
+ Programação visual: Integra todo os componentes. Trabalha com interface gráfica. trabalha em ambiente integrado.
+ 
+ ===============================================================================================================================================================================================================================================
+ [,<spacebar>_] Significa que o comando continua na linha de baixo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
